@@ -1,0 +1,9 @@
+config.json
+.env
+.env.*
+data/
+*.sqlite*
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
